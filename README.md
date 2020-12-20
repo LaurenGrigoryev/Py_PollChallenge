@@ -1,4 +1,4 @@
-# Py_PollChallenge
+# PyPoll_Challenge
 
 ## Overview of Election Audit
 The purpose of this election audit was to submit additional data to the election commission specifically for voter turnout in each county, percentage of votes from each county from the total vote, and show the county with the highest turnout.
@@ -7,7 +7,7 @@ The purpose of this election audit was to submit additional data to the election
 * Exactly 369,711 votes were cast in this congressional election. [This is the code used to be able to print and see clearly how many votes were cast.](https://github.com/LaurenSonis/Py_PollChallenge/blob/main/2020-12-20%20(1).png)
 * Jefferson County had 10.51% of the votes with 38,855 votes cast. Denver County had 82.78% with 306,055 votes, and Arapahoe County had 6.71% with 24,801 votes cast. [This is a for loop written to see what percentage of the vote each county had.](https://github.com/LaurenSonis/Py_PollChallenge/blob/main/2020-12-20%20(2).png)
 * Denver County had the largest number of votes.
-* Diana DeGette had 73.8% of the vote with 272,892 votes cast. Charles Casper Stockham had 23.0% of the vote with 85,213 votes cast, and Raymon Anthony Doane had 3.1% of the vvote with 11,606 votes cast. [This is code written to see how each candidate fared.](https://github.com/LaurenSonis/Py_PollChallenge/commit/bf1c446d2a352ba45239ca3fbf5976bd5b911288)
+* Diana DeGette had 73.8% of the vote with 272,892 votes cast. Charles Casper Stockham had 23.0% of the vote with 85,213 votes cast, and Raymon Anthony Doane had 3.1% of the vvote with 11,606 votes cast. [This is code written to see how each candidate fared.](https://github.com/LaurenSonis/Py_PollChallenge/blob/main/2020-12-20%20(3).png)
 * Diana DeGette won the election with 73.8% of the vote and 272,892 votes cast.
 
 ## Election Audit Summary
